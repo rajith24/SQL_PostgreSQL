@@ -1,2 +1,3 @@
 # SQL_PostgreSQL
-Modifying and Retrieving a Database based on requirements
+## AIM
+* >Modifying and Retrieving a set of data from Database based on requirements.
